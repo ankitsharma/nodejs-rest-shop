@@ -1,0 +1,8 @@
+{
+    "env" : {
+        "MONGO_ATLAS_PW" : "<update your Password>",
+        "userANkit" :  "AnkitSharma",
+        "JWT_KEY" : "secret"
+    }
+
+}
